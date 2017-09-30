@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/alkudakaev/python-lesson.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alkudakaev/homework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/python-2017-3" />
