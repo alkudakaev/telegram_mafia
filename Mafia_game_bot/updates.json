@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 133885253,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 196682832,
+          "is_bot": false,
+          "first_name": "Олексий",
+          "last_name": "Озерской",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 196682832,
+          "first_name": "Олексий",
+          "last_name": "Озерской",
+          "type": "private"
+        },
+        "date": 1514403173,
+        "text": "кря"
+      }
+    }
+  ]
+}
