@@ -66,5 +66,5 @@ class Room(object):
 
     # Получить id комнаты
     def get_id(self):
-        return self.room_status
+        return self.room_id
 
